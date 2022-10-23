@@ -4,8 +4,8 @@ package starrcmd_test
 import (
 	"fmt"
 
-	"golift.io/starr"
-	"golift.io/starr/starrcmd"
+	"github.com/craigjmidwinter/starr"
+	"github.com/craigjmidwinter/starr/starrcmd"
 )
 
 /* This example assumes you want to handle custom script command hooks for all applications.

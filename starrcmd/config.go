@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 /* Notes to future developers of this module:

@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"golift.io/starr"
-	"golift.io/starr/radarr"
+	"github.com/craigjmidwinter/starr"
+	"github.com/craigjmidwinter/starr/radarr"
 )
 
 func TestEditMovies(t *testing.T) {

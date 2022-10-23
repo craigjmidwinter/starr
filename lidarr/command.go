@@ -8,7 +8,7 @@ import (
 	"path"
 	"time"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpCommand = APIver + "/command"

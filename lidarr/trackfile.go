@@ -9,7 +9,7 @@ import (
 	"path"
 	"time"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpTrackFile = APIver + "/trackfile"

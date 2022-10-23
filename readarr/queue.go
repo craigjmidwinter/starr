@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpQueue = APIver + "/queue"

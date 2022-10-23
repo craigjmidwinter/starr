@@ -7,7 +7,7 @@ import (
 	"path"
 	"time"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpHistory = APIver + "/history"

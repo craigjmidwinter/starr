@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"golift.io/starr"
-	"golift.io/starr/sonarr"
+	"github.com/craigjmidwinter/starr"
+	"github.com/craigjmidwinter/starr/sonarr"
 )
 
 var testCalendarJSON = `{

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"path"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpCustomFormat = APIver + "/customFormat"

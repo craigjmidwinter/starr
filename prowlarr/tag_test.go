@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"golift.io/starr"
-	"golift.io/starr/prowlarr"
+	"github.com/craigjmidwinter/starr"
+	"github.com/craigjmidwinter/starr/prowlarr"
 )
 
 func TestGetTags(t *testing.T) {

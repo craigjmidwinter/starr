@@ -3,7 +3,7 @@ package readarr
 import (
 	"strings"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // APIver is the Readarr API version supported by this library.

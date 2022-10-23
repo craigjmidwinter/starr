@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"path"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpIndexerConfig = APIver + "/config/indexer"

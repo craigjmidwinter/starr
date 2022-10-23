@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 const bpMovieEditor = bpMovie + "/editor"

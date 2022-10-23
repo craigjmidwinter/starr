@@ -3,7 +3,7 @@ package prowlarr
 import (
 	"strings"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // Prowlarr contains all the methods to interact with a Prowlarr server.

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"golift.io/starr/debuglog"
+	"github.com/craigjmidwinter/starr/debuglog"
 )
 
 /* This file contains shared structs or constants for all the *arr apps. */

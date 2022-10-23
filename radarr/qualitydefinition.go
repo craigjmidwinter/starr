@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"path"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // QualityDefinition is the /api/v3/qualitydefinition endpoint.

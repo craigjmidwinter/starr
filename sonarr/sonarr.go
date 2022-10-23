@@ -3,7 +3,7 @@ package sonarr
 import (
 	"strings"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // APIver is the Sonarr API version supported by this library.

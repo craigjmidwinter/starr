@@ -3,7 +3,7 @@ package lidarr
 import (
 	"strings"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // APIver is the Lidarr API version supported by this library.

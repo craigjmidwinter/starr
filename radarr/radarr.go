@@ -3,7 +3,7 @@ package radarr
 import (
 	"strings"
 
-	"golift.io/starr"
+	"github.com/craigjmidwinter/starr"
 )
 
 // APIver is the Radarr API version supported by this library.
